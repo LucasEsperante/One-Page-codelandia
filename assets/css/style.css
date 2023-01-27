@@ -1,0 +1,11 @@
+@import url(cabecalho/cabecalho.css);
+:root {
+    --roxo: #6c63ff;
+    --roxo-claro: #D7D4FF;
+    --branco: #FFFFFF;
+    --branco-200: #F9F9F9;
+    --cinza: #555555;
+    --cinza-escuro: #2A2A2A;
+    --fonte-merri: 'Merriweather', serif;
+    --fonte-lato: 'Lato', sans-serif;
+}
